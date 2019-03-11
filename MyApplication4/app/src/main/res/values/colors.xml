@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <string name="btnexit">Exit</string>
+    <string name="txtwarna">Warna yang dipilih</string>
+    <color name="backBlue">#0000FF</color>
+    <color name="backRed">#FF0000</color>
+    <color name="backGreen">#00FF00</color>
+    <color name="backWhite">#FFFFFF</color>
+    <color name="backDark">#000000</color>
+    <color name="backPink">#FF4081</color>
+    <color name="backCayon">#2FfFFF</color>
+    <color name="backYellow">#FFFF81</color>
+</resources>
